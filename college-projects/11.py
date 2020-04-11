@@ -1,0 +1,13 @@
+import collections
+collect1 = collections.Counter([1, 2, 3, 4, 5])
+collect2 = collections.Counter([4, 5, 6, 7, 8])
+print('C1:', collect1)
+print('C2:', collect2)
+print('\nAddition:')
+print(collect1 + collect2)
+print('\nSubtraction:')
+print(collect1 - collect2)
+print('\nIntersection :')
+print(collect1 & collect2)
+print('\nUnion :')
+print(collect1 | collect2)
