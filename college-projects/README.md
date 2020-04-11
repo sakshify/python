@@ -3,7 +3,7 @@ All the projects in this rep are Vishwakarma University python projects only. Do
 
 These were created in PyCharm. If you have encouter any problem, try compiling using PyCharm IDE before creating an Issue on this repo.
 
-This dir is only for VU python projects.
+Go through objective file before spamming.
 
 DO NOT spam me with patches. Create a Pull request and I'll go through them.
 
