@@ -8,3 +8,4 @@ while string!=' ':
 print("String in lowercase=")
 for k in range(0,i):
     print(str[k].lower())
+    ###hiiiiiiiiiiiiii
